@@ -1,1 +1,1 @@
-release: python server.py
+web: gunicorn hello.wsgi --log-file -
