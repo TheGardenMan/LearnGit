@@ -1,3 +1,3 @@
 from django.shortcuts import render
-# jj
+# jjl
 # Create your views here.
